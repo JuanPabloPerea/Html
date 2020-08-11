@@ -1,0 +1,26 @@
+body{
+  background-color: PapayaWhip;
+}
+
+h3 {
+  color: purple;
+  text-align: center;
+  font-family: monospace;
+}
+
+p {
+  font-family: monospace;
+  text-align: justify;
+}
+
+li {
+  font-family: monospace;
+}
+
+hr {
+  width: 50%;
+  align-self: auto;
+  size: 20%;
+  color: PaleGreen;
+
+}
